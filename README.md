@@ -1,1 +1,1 @@
-# django-blog-application
+# Test Driven Blog Developing Using Python/Django
